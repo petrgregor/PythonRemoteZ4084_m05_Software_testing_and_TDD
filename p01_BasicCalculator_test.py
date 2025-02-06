@@ -66,5 +66,5 @@ def test_divide():
 
     # assert basic_calculator.divide(5, 0) == 5
     # testování výjimky
-    with pytest.raises(Exception):
+    with pytest.raises(ZeroDivisionError):
         assert basic_calculator.divide(5, 0)
