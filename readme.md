@@ -11,7 +11,7 @@ Prošli jsme prezentaci slajdy 1-?:
   - Akceptační testy
 - PyTest
   - [Dokumentace](https://docs.pytest.org/en/latest/contents.html)
-  - Insatalce:
+  - Instalace:
     ```bash
     pip install pytest
     ``` 
