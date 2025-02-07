@@ -37,3 +37,6 @@ a definujte následující metody:
 - [ ] `absolute_value` (absolutní hodnota)
 
 **A vše řádně otestujte.**
+
+## Lekce 2 (7. 2. 2025)
+Prošli jsme prezentaci slajdy 34-:
