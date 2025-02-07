@@ -41,6 +41,7 @@ a definujte následující metody:
 ## Lekce 2 (7. 2. 2025)
 Prošli jsme prezentaci slajdy 34-:
 - testování pomocí třídy
+- fixtures
 
 ### Domácí úkol
 K třídě ComplexNumber definujete testy pomocí třídy.
