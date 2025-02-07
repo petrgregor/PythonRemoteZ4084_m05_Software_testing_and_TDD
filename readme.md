@@ -42,6 +42,7 @@ a definujte následující metody:
 Prošli jsme prezentaci slajdy 34-:
 - testování pomocí třídy
 - fixtures
+- mockování
 
 ### Domácí úkol
 K třídě ComplexNumber definujete testy pomocí třídy.
