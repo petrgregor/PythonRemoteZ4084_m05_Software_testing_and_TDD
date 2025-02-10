@@ -37,3 +37,16 @@ parameters = [
 )
 def test_subtraction_float(num1, num2, result):
     assert BasicCalculator().subtract(num1, num2) == result
+
+
+def get_params_from_file():
+    with open("p01_BasicCalculator_parameters_add.csv") as f:
+        lines = f.readlines()
+        for line in lines:
+            numbers = line.split(",")
+            for number in numbers:
+                print(number.strip())
+                # TODO: vytvořit tupples
+            # TODO: tupples vložit do seznamu
+        # TODO: vytvořený seznam tupplů se použije na testování
+    # return parameters
