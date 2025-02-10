@@ -51,3 +51,5 @@ K třídě ComplexNumber definujete testy pomocí třídy.
 Příklady:
 - faktoriál
 - is_prime
+- parametrické testy
+- Cvičení 2, 3, 4
