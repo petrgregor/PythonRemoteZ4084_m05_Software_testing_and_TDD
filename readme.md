@@ -50,4 +50,4 @@ K třídě ComplexNumber definujete testy pomocí třídy.
 ## Lekce 3 (10. 2. 2025)
 Příklady:
 - faktoriál
-- 
+- is_prime
