@@ -61,13 +61,14 @@ Příklady:
   - Cvičení 5
   - coverage
 
-
 ### Domácí úkoly
 #### Počítání slov
 Implementujte funkci `word_count(s)`, která vrátí počet slov v daném řetězci. A otestujte ji.
 
 #### Fibonacciho posloupnost
 Implementujte funkci `fibonacci(n)`, která vrátí n-tý prvek Fibonacciho posloupnosti. A otestujte ji.
+
+[Fibonacciho posloupnost](https://cs.wikipedia.org/wiki/Fibonacciho_posloupnost)
 
 #### Správa knihovny (OOP)
 Vytvořte třídu `Book` s atributy `title` (název knihy), `author` (autor knihy) a `year` (rok vydání).
@@ -76,6 +77,8 @@ Vytvořte třídu `Library`, která umožňuje přidávat knihy a vyhledávat kn
 #### Matice a transpozice
 Implementujte třídu `Matrix`, která umožňuje vytvořit matici z dvourozměrného seznamu a poskytuje metodu `transpose()`,
 která vrátí transponovanou matici. Otestujte.
+
+[Transpozice matice](https://cs.wikipedia.org/wiki/Transpozice_matice)
 
 #### Správa úkolů (OOP)
 Vytvořte třídu `Task` s atributy `description` (popis úkolu) a `completed` (boolean určující, zda je úkol dokončen).
