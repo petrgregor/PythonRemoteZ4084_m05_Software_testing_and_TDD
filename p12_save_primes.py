@@ -20,8 +20,13 @@ def find_n_primes(n):
 
 
 def save_primes(n, file_name):
-    pass
+    """Uloží nalezených n prvočísel do souboru"""
+    primes = find_n_primes(n)
+    with open(file_name, 'w') as f:
+        for prime in primes:
+            f.write(f"{prime}\n")
 
 
 if __name__ == '__main__':
     print(find_n_primes(10))
+    save_primes(20, 'primes20.txt')
