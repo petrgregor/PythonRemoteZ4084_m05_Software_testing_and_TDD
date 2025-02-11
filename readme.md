@@ -59,6 +59,7 @@ Příklady:
   - add
   - save_primes (práce se souborem)
   - Cvičení 5
+  - coverage
 
 
 ### Domácí úkoly
